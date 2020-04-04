@@ -41,7 +41,7 @@ tramite selezione degli argomenti.
 | | |/ /  - http://giovannifornero.net/index.php?pagina=scuola&sezione=percorsi
 | |/| |
 | | | |
-| * | | Riforma (2012?)                                                  2020 <Repubblica Italiana>
+| * | | Riforma (2012?)                                                       <Repubblica Italiana>
 |  / /  Da http://giovannifornero.net/index.php?pagina=scuola&sezione=ricerca :
 | | |
 | | |   > ... lo studente sia messo in grado di orientarsi sui problemi
@@ -116,13 +116,13 @@ tramite selezione degli argomenti.
 | - http://giovannifornero.net/index.php?pagina=scuola&sezione=filosofi
 | - https://it.wikipedia.org/wiki/Giovanni_Fornero
 |
-* Compendio di storia della filosofia (1945-1947)                        2020 <Abbagnano>
+* Compendio di storia della filosofia (1945-1947)                             <Abbagnano>
   Fonti:
   - http://giovannifornero.net/index.php?pagina=scuola
   - https://it.wikipedia.org/wiki/Nicola_Abbagnano
 ```
 
-Il grafico in alto è stato generato dal comando seguente (in un repository ausiliario):
+La version originale del grafico in alto è stato generato dal comando seguente (in un repository ausiliario):
 ```
 git log --no-decorate --graph --author-date-order --date='format:%Y' --pretty='tformat:%C(bold)%s%Creset%C(auto)%>>|(72)%Creset %C(dim)%ad%Creset %C(dim)<%an>%Creset%+b' origin/master origin/selezione origin/temi-selezione origin/riduzione-uniforme origin/selezione-1
 ```
