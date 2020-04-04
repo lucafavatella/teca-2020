@@ -1,3 +1,12 @@
+# Abbagnano-Fornero
+
+In Aprile 2020,
+il manuale di filosofia per licei Abbagnano-Fornero è "Con-Filosofare" (2016),
+di cui "I nodi del pensiero" (2017) è la versione con un numero di pagine ridotto
+tramite selezione degli argomenti.
+
+## Analisi
+
 ```
 *   I nodi del pensiero                                                  2017 <Abbagnano-Fornero>
 |\  Da https://www.pearson.it/opera/paravia/0-6353-i_nodi_del_pensiero :
