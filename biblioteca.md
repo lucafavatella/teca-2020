@@ -1,5 +1,11 @@
 # Biblioteca
 
+## [Internet Archive](https://archive.org/details/texts)
+
+Alcune collezioni:
+* https://archive.org/details/europeanlibraries
+* https://archive.org/details/journals
+
 ## [Universal Library (Million Book Project)](https://archive.org/details/universallibrary)
 
 Dal [sito del progetto](http://ulib.isri.cmu.edu/ULIBCopyrights.htm):
