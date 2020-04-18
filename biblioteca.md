@@ -8,6 +8,8 @@ Alcune collezioni:
 * https://archive.org/details/europeanlibraries
 * https://archive.org/details/journals
 
+## [Servizio Bibliotecario Nazionale, On-line Public Access Catalogue](https://opac.sbn.it) (1997-)
+
 ## [Wikisource](https://wikisource.org) (2003-)
 
 ## [Biblioteca Musicale Petrucci, anche nota come International Music Score Library Project](https://imslp.org) (2006-)
