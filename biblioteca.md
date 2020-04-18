@@ -8,6 +8,8 @@ Alcune collezioni:
 * https://archive.org/details/europeanlibraries
 * https://archive.org/details/journals
 
+## [Wikisource](https://wikisource.org) (2003-)
+
 ## [Universal Library (Million Book Project)](https://archive.org/details/universallibrary) (2007-2008)
 
 Dal [sito del progetto](http://ulib.isri.cmu.edu/ULIBCopyrights.htm):
