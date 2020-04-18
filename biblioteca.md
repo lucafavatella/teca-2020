@@ -1,14 +1,14 @@
 # Biblioteca
 
-## [Progetto Gutenberg](https://www.gutenberg.org)
+## [Progetto Gutenberg](https://www.gutenberg.org) (1971-)
 
-## [Internet Archive](https://archive.org/details/texts)
+## [Internet Archive](https://archive.org/details/texts) (1996-)
 
 Alcune collezioni:
 * https://archive.org/details/europeanlibraries
 * https://archive.org/details/journals
 
-## [Universal Library (Million Book Project)](https://archive.org/details/universallibrary)
+## [Universal Library (Million Book Project)](https://archive.org/details/universallibrary) (2007-2008)
 
 Dal [sito del progetto](http://ulib.isri.cmu.edu/ULIBCopyrights.htm):
 
@@ -36,7 +36,7 @@ Dalla [pagine Wikipedia](https://en.wikipedia.org/wiki/Million_Book_Project):
 >
 > The program ended in 2008.
 
-## [HathiTrust](https://www.hathitrust.org)
+## [HathiTrust](https://www.hathitrust.org) (2008-)
 
 Dal [sito del progetto](https://www.hathitrust.org/help_copyright):
 
