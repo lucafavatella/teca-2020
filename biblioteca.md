@@ -22,7 +22,7 @@ Dal [sito del progetto](http://ulib.isri.cmu.edu/ULIBCopyrights.htm):
 > 2. For books under copyright, we only display the title page and other selected pages not exceeding 10% of the pages, under the fair use policy.
 >    We currently deem any book published after 1923 as being in copyright, unless:
 >    - a. The book is in public domain (e.g. government publications and other approved not-for-profit societies) 
->    - b. Explicit permission has been received from the author or publisher or 
+>    - b. Explicit permission has been received from the author or publisher or
 >    - c. There is authenticated information to indicate that this book should not be in copyright. 
 >
 > An author or owner of a book published after 1923 can request that the entire content be displayed on the UDL website.
