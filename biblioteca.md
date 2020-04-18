@@ -10,6 +10,8 @@ Alcune collezioni:
 
 ## [Wikisource](https://wikisource.org) (2003-)
 
+## [Biblioteca Musicale Petrucci, anche nota come International Music Score Library Project](https://imslp.org) (2006-)
+
 ## [Universal Library (Million Book Project)](https://archive.org/details/universallibrary) (2007-2008)
 
 Dal [sito del progetto](http://ulib.isri.cmu.edu/ULIBCopyrights.htm):
