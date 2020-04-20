@@ -122,7 +122,7 @@ tramite selezione degli argomenti.
   - https://it.wikipedia.org/wiki/Nicola_Abbagnano
 ```
 
-La version originale del grafico in alto è stato generato dal comando seguente (in un repository ausiliario):
+La versione originale del grafico in alto è stato generato dal comando seguente (in un repository ausiliario):
 ```
 git log --no-decorate --graph --author-date-order --date='format:%Y' --pretty='tformat:%C(bold)%s%Creset%C(auto)%>>|(72)%Creset %C(dim)%ad%Creset %C(dim)<%an>%Creset%+b' origin/master origin/selezione origin/temi-selezione origin/riduzione-uniforme origin/selezione-1
 ```
