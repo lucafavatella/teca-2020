@@ -2,6 +2,8 @@
 
 ## Storia della Filosofia
 
+Note di Lee Archie [Philosophy Course Notes](https://philosophy.lander.edu) (1997-) distribuite sotto GNU Free Documentation License su un dominio di Lander University.
+
 81 lezioni del corso di un anno [A History of Philosophy](https://www.youtube.com/playlist?list=PL9GwT4_YRZdBf9nIUHs0zjrnUVl-KBNSM) che Arthur F. Holmes ha insegnato al Wheaton College nell'anno scolastico 1991-1992.
 Usa l'antologia di Walter Kaufmann (1921-1980).
 
