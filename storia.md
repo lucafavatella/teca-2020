@@ -11,6 +11,10 @@ Lezioni di Walter Kaufmann nel 1960 su esistenzialismo: [Kierkegaard](https://ar
 
 Libro "A History of Western Philosophy" scritto da Bertrand Russell (1872-1970) nel 1945.
 
+## Filosofia della Storia
+
+8 lezioni di Nicholas Thomas Wright [Discerning the Dawn: History, Eschatology and New Creation](https://www.giffordlectures.org/lectures/discerning-dawn-history-eschatology-and-new-creation).
+
 ## [Letteratura e Unità d'Italia](https://www.radioradicale.it/organizzatore/8035/biblioteca-comunale-edmondo-de-amicis-di-anzola-dell-emilia)
 
 7 eventi con Matteo Marchesini.
