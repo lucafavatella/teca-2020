@@ -15,6 +15,8 @@ Libro "A History of Western Philosophy" scritto da Bertrand Russell (1872-1970) 
 
 8 lezioni di Nicholas Thomas Wright [Discerning the Dawn: History, Eschatology and New Creation](https://www.giffordlectures.org/lectures/discerning-dawn-history-eschatology-and-new-creation).
 
-## [Letteratura e Unità d'Italia](https://www.radioradicale.it/organizzatore/8035/biblioteca-comunale-edmondo-de-amicis-di-anzola-dell-emilia)
+## Storia Italiana
 
-7 eventi con Matteo Marchesini.
+Corso digitale di Nicola De Blasi dall'Università degli Studi di Napoli "Federico II" su [Comprendere l'italiano: passato, presente, futuro](https://mooc.federica.eu/c/comprendere_litaliano_passato_presente_futuro) accessibile nel 2020.
+
+7 eventi con Matteo Marchesini nel 2010 su [Letteratura e Unità d'Italia](https://www.radioradicale.it/organizzatore/8035/biblioteca-comunale-edmondo-de-amicis-di-anzola-dell-emilia).
