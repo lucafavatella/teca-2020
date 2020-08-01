@@ -20,4 +20,15 @@ Libro "A History of Western Philosophy" scritto da Bertrand Russell (1872-1970) 
 Corso digitale di Nicola De Blasi dall'Università degli Studi di Napoli "Federico II" su [Comprendere l'italiano: passato, presente, futuro](https://mooc.federica.eu/c/comprendere_litaliano_passato_presente_futuro) accessibile nel 2020.
 Con la collaborazione della Società Italiana di Storia Patria, in particolare la [Società Napoletana di Storia Patria](http://www.storiapatrianapoli.it).
 
+Storia della lingua italiana:
+* Petrarca: [Canzoniere](https://it.wikisource.org/wiki/Canzoniere_(Rerum_vulgarium_fragmenta)) (fonte migliorabile).
+* Leon Battista Alberti: [Grammatica della lingua toscana](https://it.wikisource.org/wiki/Grammatica_della_lingua_toscana) (fonte migliorabile).
+* Pietro Bembo: [Prose della volgar lingua](https://it.wikisource.org/wiki/Prose_della_volgar_lingua) ([probabile fonte](https://www.liberliber.it/online/autori/autori-b/pietro-bembo/prose-della-volgar-lingua/)) (fonte migliorabile).
+* Vocabolario degli Accademici della Crusca:
+  * [Panoramica delle edizioni](https://it.wikipedia.org/w/index.php?title=Vocabolario_della_Crusca&oldid=114470624).
+  * [Contenuto pubblicato dall'Accademia della Crusca per sola consultazione](http://www.lessicografia.it/lettura_testi.jsp).
+  * [Indice dei contenuti su Internet Archive](https://archive.org/details/texts?and%5B%5D=%22vocabolario+degli+accademici+della+crusca%22&sin=&sort=date).
+  * [Prima edizione (1612) su Internet Archive in pubblico dominio](https://archive.org/details/bub_gb_87RCOgpN-MUC).
+* Alessandro Manzoni: [I promessi sposi](https://it.wikisource.org/wiki/I_promessi_sposi_-_Storia_della_colonna_infame_(1840)).
+
 7 eventi con Matteo Marchesini nel 2010 su [Letteratura e Unità d'Italia](https://www.radioradicale.it/organizzatore/8035/biblioteca-comunale-edmondo-de-amicis-di-anzola-dell-emilia).
