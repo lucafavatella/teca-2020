@@ -2,6 +2,8 @@
 
 ## [Progetto Gutenberg](https://www.gutenberg.org) (1971-)
 
+## [Liber Liber, nota per il Progetto Manuzio](https://www.liberliber.it) (1993-)
+
 ## [Internet Archive](https://archive.org/details/texts) (1996-)
 
 Alcune collezioni:
