@@ -17,7 +17,7 @@ Libro "A History of Western Philosophy" scritto da Bertrand Russell (1872-1970) 
 
 ## Storia Italiana
 
-Corso digitale di Nicola De Blasi dall'Università degli Studi di Napoli "Federico II" su [Comprendere l'italiano: passato, presente, futuro](https://mooc.federica.eu/c/comprendere_litaliano_passato_presente_futuro) accessibile nel 2020.
+Corso digitale di Nicola De Blasi dall'Università degli Studi di Napoli "Federico II" su [Comprendere l'italiano: passato, presente, futuro](https://mooc.federica.eu/c/comprendere_litaliano_passato_presente_futuro) accessibile nel 2020 previa registrazione.
 Con la collaborazione della Società Italiana di Storia Patria, in particolare la [Società Napoletana di Storia Patria](http://www.storiapatrianapoli.it).
 
 Storia della lingua italiana:
