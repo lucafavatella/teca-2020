@@ -21,6 +21,9 @@ Corso digitale di Nicola De Blasi dall'Università degli Studi di Napoli "Feder
 Con la collaborazione della Società Italiana di Storia Patria, in particolare la [Società Napoletana di Storia Patria](http://www.storiapatrianapoli.it).
 
 Storia della lingua italiana:
+* Scuola siciliana:
+  * Giacomo da Lentini: [](https://it.wikisource.org/wiki/Amore_è_uno_desio_che_ven_da%27_core).
+  * Stefano Pronotaro: [Pir meu cori allegrari](https://it.wikisource.org/wiki/Pir_meu_cori_allegrari).
 * Petrarca: [Canzoniere](https://it.wikisource.org/wiki/Canzoniere_(Rerum_vulgarium_fragmenta)) (fonte migliorabile).
 * Leon Battista Alberti: [Grammatica della lingua toscana](https://it.wikisource.org/wiki/Grammatica_della_lingua_toscana) (fonte migliorabile).
 * Pietro Bembo: [Prose della volgar lingua](https://it.wikisource.org/wiki/Prose_della_volgar_lingua) ([probabile fonte](https://www.liberliber.it/online/autori/autori-b/pietro-bembo/prose-della-volgar-lingua/)) (fonte migliorabile).
