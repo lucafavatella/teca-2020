@@ -24,6 +24,8 @@ Storia della lingua italiana:
 * Scuola siciliana:
   * Giacomo da Lentini: [](https://it.wikisource.org/wiki/Amore_è_uno_desio_che_ven_da%27_core).
   * Stefano Pronotaro: [Pir meu cori allegrari](https://it.wikisource.org/wiki/Pir_meu_cori_allegrari).
+* Antonio da Tempo:
+  * [Summa Artis Rithimici Vulgaris Dictaminis (1332)](https://archive.org/details/bub_gb_OBU_3TiiNjgC).
 * Dante:
   * De vulgari eloquentia [I](https://github.com/cltk/lat_text_latin_library/blob/76229acaf02efd1964ac32009408a90b6f279758/dante/vulgar.txt) [II](https://github.com/cltk/lat_text_latin_library/blob/76229acaf02efd1964ac32009408a90b6f279758/dante/vulgar2.txt).
     * Il sito che ospita i due file dichiara pubblico dominio ([Public Domain Mark 1.0](https://github.com/cltk/lat_text_latin_library/blob/76229acaf02efd1964ac32009408a90b6f279758/LICENSE.md))
