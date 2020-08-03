@@ -24,8 +24,6 @@ Storia della lingua italiana:
 * Scuola siciliana:
   * Giacomo da Lentini: [](https://it.wikisource.org/wiki/Amore_è_uno_desio_che_ven_da%27_core).
   * Stefano Pronotaro: [Pir meu cori allegrari](https://it.wikisource.org/wiki/Pir_meu_cori_allegrari).
-* Antonio da Tempo:
-  * [Summa Artis Rithimici Vulgaris Dictaminis (1332)](https://archive.org/details/bub_gb_OBU_3TiiNjgC).
 * Dante:
   * De vulgari eloquentia [I](https://github.com/cltk/lat_text_latin_library/blob/76229acaf02efd1964ac32009408a90b6f279758/dante/vulgar.txt) [II](https://github.com/cltk/lat_text_latin_library/blob/76229acaf02efd1964ac32009408a90b6f279758/dante/vulgar2.txt).
     * Il sito che ospita i due file dichiara pubblico dominio ([Public Domain Mark 1.0](https://github.com/cltk/lat_text_latin_library/blob/76229acaf02efd1964ac32009408a90b6f279758/LICENSE.md))
@@ -33,6 +31,8 @@ Storia della lingua italiana:
       "... I have tried to indicate on the Credit Page the edition and date of the original text and who (if known) was responsible for the initial HTML conversion. ... If I am unable to identify the edition (which is often the case), I have attempted, if feasible, to conform the text to an out–of–copyright edition. ...",
       e nella ["Credit page"](http://thelatinlibrary.com/cred.html) legge
       "Dante ... de Vulgari Eloquentia Libri Duo posted from [La Biblioteca Telematica](http://www.liberliber.it/) (the Manuzio Project) in Rome, Italy. Scanned by Roberto Galiardi and corrected by Tiziana D'Errico from De vulgari eloquentia ridotto a miglior lezione, commentato e tradotto da Aristide Marigo, con introduzione, analisi metrica della canzone, studio della lingua e glossario, 2d ed. (Florence 1948).".
+* Antonio da Tempo:
+  * [Summa Artis Rithimici Vulgaris Dictaminis (1332)](https://archive.org/details/bub_gb_OBU_3TiiNjgC).
 * Petrarca: [Canzoniere](https://it.wikisource.org/wiki/Canzoniere_(Rerum_vulgarium_fragmenta)) (fonte migliorabile).
 * Leon Battista Alberti: [Grammatica della lingua toscana](https://it.wikisource.org/wiki/Grammatica_della_lingua_toscana) (fonte migliorabile).
 * Pietro Bembo: [Prose della volgar lingua](https://it.wikisource.org/wiki/Prose_della_volgar_lingua) ([probabile fonte](https://www.liberliber.it/online/autori/autori-b/pietro-bembo/prose-della-volgar-lingua/)) (fonte migliorabile).
