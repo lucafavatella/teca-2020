@@ -20,6 +20,9 @@ Libro "A History of Western Philosophy" scritto da Bertrand Russell (1872-1970) 
 Corso digitale di Nicola De Blasi dall'Università degli Studi di Napoli "Federico II" su [Comprendere l'italiano: passato, presente, futuro](https://mooc.federica.eu/c/comprendere_litaliano_passato_presente_futuro) accessibile nel 2020 previa registrazione.
 Con la collaborazione della Società Italiana di Storia Patria, in particolare la [Società Napoletana di Storia Patria](http://www.storiapatrianapoli.it).
 
+Interviste di Nicola De Blasi sulla storia della lingua italiana su Rai Radio 3
+e.g. [napoletano](https://www.raiplayradio.it/audio/2016/01/Il-napoletano-ieri-e-oggi---La-Lingua-Batte-del-17012016-e4b8c474-1424-4cc0-a6e4-a2bc8bc35279.html).
+
 Storia della lingua italiana:
 * Scuola siciliana:
   * Giacomo da Lentini: [](https://it.wikisource.org/wiki/Amore_è_uno_desio_che_ven_da%27_core).
