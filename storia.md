@@ -17,7 +17,7 @@ Libro "A History of Western Philosophy" scritto da Bertrand Russell (1872-1970) 
 
 ## Storia Italiana
 
-Corso digitale di Nicola De Blasi dall'Università degli Studi di Napoli "Federico II" su [Comprendere l'italiano: passato, presente, futuro](https://mooc.federica.eu/c/comprendere_litaliano_passato_presente_futuro) accessibile nel 2020 previa registrazione.
+Corso digitale di Nicola De Blasi dall'Università degli Studi di Napoli "Federico II" su [Comprendere l'italiano: passato, presente, futuro](https://mooc.federica.eu/c/comprendere_litaliano_passato_presente_futuro) accessibile nel 2020 previa registrazione.
 Con la collaborazione della Società Italiana di Storia Patria, in particolare la [Società Napoletana di Storia Patria](http://www.storiapatrianapoli.it).
 
 Interviste di Nicola De Blasi sulla storia della lingua italiana su Rai Radio 3
@@ -25,7 +25,7 @@ e.g. [napoletano](https://www.raiplayradio.it/audio/2016/01/Il-napoletano-ieri-e
 
 Storia della lingua italiana:
 * Scuola siciliana:
-  * Giacomo da Lentini: [](https://it.wikisource.org/wiki/Amore_è_uno_desio_che_ven_da%27_core).
+  * Giacomo da Lentini: [Amore è un desio che ven da' core](https://it.wikisource.org/wiki/Amore_è_uno_desio_che_ven_da%27_core).
   * Stefano Pronotaro: [Pir meu cori allegrari](https://it.wikisource.org/wiki/Pir_meu_cori_allegrari).
 * Dante:
   * De vulgari eloquentia [I](https://github.com/cltk/lat_text_latin_library/blob/76229acaf02efd1964ac32009408a90b6f279758/dante/vulgar.txt) [II](https://github.com/cltk/lat_text_latin_library/blob/76229acaf02efd1964ac32009408a90b6f279758/dante/vulgar2.txt).
