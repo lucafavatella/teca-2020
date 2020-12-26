@@ -9,6 +9,10 @@ Usa l'antologia di Walter Kaufmann (1921-1980).
 
 Lezioni di Walter Kaufmann nel 1960 su esistenzialismo: [Kierkegaard](https://archive.org/details/KierkegaardAndTheCrisisInReligion), [Nietzsche](https://archive.org/details/NietzscheAndTheCrisisInPhilosophy) and [Sartre](https://archive.org/details/SartreAndTheCrisisInMorality).
 
+[Traduzione, di pubblico dominio, in lingua inglese del 1857 di John Sibree](https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t8bg2kn83) ([1795–1877](https://en.wikisource.org/wiki/Author:John_Sibree))
+delle lezioni sulla filosofia della storia tenute da Georg Wilhelm Friedrich Hegel (1770-1831) nel 1822, 1828 e 1830
+come compilate dal figlio Karl (1813-1901) nel 1840 ([fonte](https://en.wikipedia.org/w/index.php?title=Lectures_on_the_Philosophy_of_History&oldid=977549852#English_editions)).
+
 ## Filosofia della Storia
 
 8 lezioni di Nicholas Thomas Wright [Discerning the Dawn: History, Eschatology and New Creation](https://www.giffordlectures.org/lectures/discerning-dawn-history-eschatology-and-new-creation).
