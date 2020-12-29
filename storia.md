@@ -125,3 +125,25 @@ L'OCSE:
   poi esplicitamente
   [nell'8 gennaio 2009 come "legal standard" da proporre al G8](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/01/tremonti-legal-standard.shtml)
   e [nel 16 gennaio 2009 come analogia al "gold standard"](https://st.ilsole24ore.com/art/SoleOnLine4/Mondo/2009/01/tremonti-lista-economie-canaglia.shtml).
+  Vedi anche
+  [il 9 gennaio 2009 l'iniziativa tedesca](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/01/sarkozy-merkel-governance-globale.shtml),
+  [il 16 gennaio 2009 Tremonti su "legal standard" in analogia al "gold standard"](https://st.ilsole24ore.com/art/SoleOnLine4/Mondo/2009/01/tremonti-lista-economie-canaglia.shtml),
+  [il 30 gennaio 2009 Tremonti su "legal standard" come "più regole"](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2009/01/tremonti-finanza-regole-capitale-banche.shtml),
+  [il 2 febbraio 2009 Tremonti su "più regole"](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/02/tremonti-radio24-ferrara.shtml),
+  [il 12 maggio 2009 Tremonti alla "conferenza internazionale Global Standard" su "12 punti condivisi"](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2009/05/global-standard-tremonti-crisi.shtml),
+  [il 29 maggio 2009 Tremonti su "legal global standard" detto a "gennaio 2008"](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/05/tremonti-crisi-inflazione-intervista_2.shtml),
+  [il 24 giugno 2009 OCSE su sanzioni a paradisi fiscali non trasparenti](https://st.ilsole24ore.com/art/SoleOnLine4/Mondo/2009/06/paradisi-fiscali-sanzioni.shtml),
+  [il 6 luglio 2009 OCSE su testo dei 12 punti proposti l'11-12 maggio 2009 a Villa Madama e considerati il 12-13 giugno 2009 a Lecce per il "Lecce framework"](https://www.oecd.org/newsroom/g8summittodiscussprinciplesandstandardsforglobalbusinessdealings.htm),
+  [il 6 luglio 2009 il rappresentante personale del primo ministro italiano su "Lecce framework"](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/giorno-per-giorno/g8-governance-crisi.shtml),
+  [il 6 luglio 2009 Il Sole 24 Ore sul termine "Lecce framework"](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/giorno-per-giorno/g8-global-standard-lontano.shtml),
+  [il 7 luglio 2009 Piercarlo Padoan sul contributo dell'OCSE al legal standard](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/approfondimenti/g8-consulto-internet.shtml),
+  [il 7 luglio 2009 Il Sole 24 Ore sul punto di vista "Sarkozy-Merkel"](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/approfondimenti/g8-riscossa-europea.shtml),
+  [l'8 luglio 2009 Tremonti alla conclusione del G8 dell'Aquila](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/giorno-per-giorno/g8-analisi-crisi.shtml),
+  [il 9 luglio 2009 Tremonti sul ruolo dell'Italia sui principi economici mondiali](https://st.ilsole24ore.com/art/SoleOnLine4/Norme%20e%20Tributi/2009/07/moratoria-crediti.shtml),
+  [il 28 agosto 2009 sulla proposta di global standard all'Ocse come "iniziativa italiana"](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/08/tremonti-economisti-maghi.shtml),
+  [nel novembre 2009 Tremonti alla Scuola Centrale del Partito Comunista Cinese sul "Global Standard" come "nucleo base di un nuovo Trattato" che presuppone "rispetto reciproco" e "tolleranza reciproca" non "solo economica, ma anche culturale e religiosa"](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2009/11/tremonti-discorso-cina_PRN.shtml),
+  [il 27 gennaio 2010 Tremonti sul ritorno dei capitali](https://st.ilsole24ore.com/art/SoleOnLine4/Norme%20e%20Tributi/2010/01/tremonti-telefisco-lotta-evasione.shtml),
+  [il 4 maggio 2010 l'OCSE sull'"iniziativa di Tremonti e Berlusconi, che ha preso avvio due anni fa a Villa Madama"](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2010/05/Ocse-rapporto-Tremonti-Gurria-regole.shtml),
+  [il 4 maggio 2010 Tremonti su norme scritte dalla politica](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2010/05/tremonti-gurria-ocse-taglia-leggi-semolificazione-crisi.shtml),
+  [il 5 maggio 2010 Tremonti su "i valori dell'integrità, della trasparenza, della proprietà"](https://st.ilsole24ore.com/art/SoleOnLine4/Editrice/IlSole24Ore/2010/05/05/Economia%20e%20Lavoro/7_A.shtml),
+  [il 6 gennaio 2011 Tremonti su più moralità politica e proposta 3 anni prima a cui OECD lavora su dichiarazione su diritti generali (video in inglese, vedi minuti 16:18-28:18)](https://www.c-span.org/video/?297366-3/global-economic-recovery).
