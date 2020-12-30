@@ -51,3 +51,25 @@ Storia della lingua italiana:
 * Alessandro Manzoni: [I promessi sposi](https://it.wikisource.org/wiki/I_promessi_sposi_-_Storia_della_colonna_infame_(1840)).
 
 7 eventi con Matteo Marchesini nel 2010 su [Letteratura e Unità d'Italia](https://www.radioradicale.it/organizzatore/8035/biblioteca-comunale-edmondo-de-amicis-di-anzola-dell-emilia).
+
+## Storia della Libertà di Iniziativa Personale
+
+[L'Italia è membro dell'Organizzazione Mondiale del Commercio (OMC) sin dalla sua fondazione nel 1994](https://italiarappginevra.esteri.it/rappginevra/it/italia_e_onu/omc/diritti-umani.html).
+L'[OMC](https://www.wto.org/english/docs_e/legal_e/legal_e.htm):
+* Introduce i diritti di proprietà intellettuale e.g. [patent ("whether products or processes")](https://www.wto.org/english/docs_e/legal_e/27-trips_04c_e.htm#5), [misura protezionistica][chomsky-wto].
+* Offre un sistema esclusivo di risoluzione delle controversie [a ogni governo membro che crede che un altro governo membro sia in violazione di un accordo o un impegno nell'OMC](https://www.wto.org/english/tratop_e/dispu_e/dispu_e.htm) e che, [essendo membro](https://www.wto.org/english/docs_e/legal_e/28-dsu_e.htm#23), [ha rinunciato ad azioni unilaterali](https://www.wto.org/english/thewto_e/whatis_e/tif_e/disp1_e.htm) e [ha rinunciato ad altri sistemi di risoluzione](https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c1s3p3_e.htm#jurisdiction).
+  Il sistema è [quasi totalmente segreto](https://www.wto.org/english/docs_e/legal_e/28-dsu_e.htm).
+* Consente [misure di difesa commerciale, recepite nell'ordinamento dell'Unione Europea (di cui l'Italia è membro), nei confronti di](https://www.esteri.it/mae/it/politica_estera/commercio-internazionale/politica-commerciale-internazionale/misure-di-difesa-commerciale.html):
+  * Importazioni a prezzo inferiore a quello sul mercato d'origine.
+  * Importazioni che godono di sovvenzioni statali.
+  * [Flussi di importazioni in quantità anomale](https://ec.europa.eu/trade/policy/accessing-markets/trade-defence/actions-against-imports-into-the-eu/safeguards/).
+* [Non consente misure di difesa commerciale](https://www.wto.org/english/docs_e/legal_e/25-safeg_e.htm) nei confronti di:
+  * Importazioni di prodotti non desiderati.
+  * Importazioni di prodotti con processi non desiderati, con [alcune eccezioni per ragioni ambientali](https://www.wto.org/english/tratop_e/envir_e/envt_rules_exceptions_e.htm).
+
+[chomsky-wto]: https://duckduckgo.com/?q=noam+chomsky+wto&iax=videos&ia=videos&iaf=videoDuration%3Along
+
+[L'Italia è membro dell'Organizzazione per la Cooperazione e lo Sviluppo Economico (OCSE) sin dalla sua fondazione nel 1960](https://www.esteri.it/mae/it/politica_estera/organizzazioni_internazionali/ocse.html).
+L'OCSE:
+* [Richiede a ogni membro la liberalizzazione dei movimenti di capitali](https://www.oecd.org/general/conventionontheorganisationforeconomicco-operationanddevelopment.htm).
+  ([I movimenti di capitali erano controllati sotto gli accordi di Bretton Woods](https://en.wikipedia.org/w/index.php?title=Capital_control&oldid=992143860#The_Bretton_Woods_Era:_1945–1971).)
