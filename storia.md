@@ -113,7 +113,7 @@ L'OCSE:
   cooperazione con le autorità pubbliche per pratiche commerciali menzognere, per minacce ambientali derivanti dallo smaltimento di beni e servizi,
   bisogni di consumatori vulnerabili e sfavoriti,
   problemi che il commercio elettronico può porre ai consumatori,
-  sostenibilità di sviluppo della nazione ospite nel trasferimento di tecnology,
+  sostenibilità di sviluppo della nazione ospite nel trasferimento di tecnologia,
   leggi della concorrenza di tutte le giurisdizioni con potentiali effetti anti-competitivi,
   cooperazione con autorità per la concorrenza considerando strumenti disponibili,
   conformità allo spirito delle leggi fiscali](https://www.oecd.org/daf/inv/mne/49744860.pdf).
