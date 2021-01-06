@@ -73,3 +73,54 @@ L'[OMC](https://www.wto.org/english/docs_e/legal_e/legal_e.htm):
 L'OCSE:
 * [Richiede a ogni membro la liberalizzazione dei movimenti di capitali](https://www.oecd.org/general/conventionontheorganisationforeconomicco-operationanddevelopment.htm).
   ([I movimenti di capitali erano controllati sotto gli accordi di Bretton Woods](https://en.wikipedia.org/w/index.php?title=Capital_control&oldid=992143860#The_Bretton_Woods_Era:_1945–1971).)
+* Adotta [una sorta di global legal standard](https://www.oecd.org/corruption/theglobalstandardofthe21stcentury.htm),
+  [di](https://www.oecd.org/corruption/businessethicsandoecdprincipleswhatcanbedonetoavoidanothercrisis.htm)
+  [iniziativa](https://www.oecd.org/general/theworldneedstorewritetherulesoffinanceandglobalbusiness.htm)
+  [italiana](https://www.oecd.org/italy/theneedforaglobalstandard.htm),
+  codificato nella [dichiarazione su proprietà, integrità e trasparenza nella condotta di affari e finanza internazionali](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0383)
+  in dieci punti
+  con relativi strumenti,
+  tra cui la [dichiarazione su investimenti internazionali e imprese multinazionali](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0144)
+  [aggiornata nel maggio del 2011](https://www.oecd.org/daf/newoecdguidelinestoprotecthumanrightsandsocialdevelopment.htm)
+  [su iniziativa italiana](https://www.oecd.org/italy/competitivegrowthforqualityjobspoliciessolutionsandstrategiesfordevelopmentandemployment.htm)
+  [per responsabilizzare le imprese su
+  creare opportunità di impiego nelle nazioni ospiti,
+  diritti umani come riconosciuti internazionalmente,
+  gruppi di imprese,
+  diligenza ragionevole basata sul rischio,
+  impatto sulle popolazioni locali,
+  supporto alla libertà di espressione e di associazione su Internet,
+  catena logistica responsabile,
+  pubblicazione delle informazioni sull'azionariato e sugli amministratori,
+  revisione contabile indipendente annuale,
+  diritti dei lavoratori di costituirsi in organizzazioni rappresentative per negoziazione collettiva,
+  lavoro minorile o forzato od obbligatorio,
+  uguaglianza di opportunità e trattamento nel lavoro,
+  sufficienza di salario, benefici e condizioni per i lavoratori e le loro famiglie,
+  sicurezza sul lavoro,
+  utilizzazione di risorse ambientali,
+  obiettivi ambientali nazionali ed internazionali,
+  miglioramento delle performance ambientali della catena logistica,
+  riduzione dei gas serra,
+  pubblicazione ai consumatori delle informazioni sulle implicazioni ambientali,
+  resistenza a istigazione a corruzione e a estorsione,
+  corruzione mediata,
+  prevenzione di corruzione,
+  affidabilità di beni e servizi offerti,
+  informazioni ai consumatori su effetti ambientali, manutenzione, stoccaggio e smaltimento di beni e servizi,
+  decisioni informate dei consumatori,
+  sicurezza di dati personali,
+  cooperazione con le autorità pubbliche per pratiche commerciali menzognere, per minacce ambientali derivanti dallo smaltimento di beni e servizi,
+  bisogni di consumatori vulnerabili e sfavoriti,
+  problemi che il commercio elettronico può porre ai consumatori,
+  sostenibilità di sviluppo della nazione ospite nel trasferimento di tecnology,
+  leggi della concorrenza di tutte le giurisdizioni con potentiali effetti anti-competitivi,
+  cooperazione con autorità per la concorrenza considerando strumenti disponibili,
+  conformità allo spirito delle leggi fiscali](https://www.oecd.org/daf/inv/mne/49744860.pdf).
+  Il concetto di legal standard fu espresso da Giulio Tremonti
+  in nuce
+  [nel 16 aprile 2008 come "mercato basato sulle regole" invece di "libero scambio senza regole"](https://st.ilsole24ore.com/art/SoleOnLine4/Italia/2008/ElezioniPolitiche/documenti/tremonti-financial-times.shtml),
+  [nel 19 aprile 2008 come assenza di "controlli" globali - analogamente alla crisi del '29 - e sugli "equity fund"](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2008/04/tremonti-draghi-aspen.shtml)
+  e [nel 18 dicembre 2008 come "più moralità, più legalità" - menzionando "il fallimento dei regolatori" -](https://st.ilsole24ore.com/art/SoleOnLine4/Mondo/2008/12/ecofin-parigi.shtml),
+  poi esplicitamente
+  [nell'8 gennaio 2009 (come "legal standard")](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/01/tremonti-legal-standard.shtml).
