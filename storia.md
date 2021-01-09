@@ -83,8 +83,8 @@ L'OCSE:
   tra cui la [dichiarazione su investimenti internazionali e imprese multinazionali](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0144)
   [aggiornata nel maggio del 2011](https://www.oecd.org/daf/newoecdguidelinestoprotecthumanrightsandsocialdevelopment.htm)
   [su iniziativa italiana](https://www.oecd.org/italy/competitivegrowthforqualityjobspoliciessolutionsandstrategiesfordevelopmentandemployment.htm)
-  [per responsabilizzare le imprese su
-  creare opportunità di impiego nelle nazioni ospiti,
+  per responsabilizzare le imprese su
+  [creare opportunità di impiego nelle nazioni ospiti,
   diritti umani come riconosciuti internazionalmente,
   gruppi di imprese,
   diligenza ragionevole basata sul rischio,
