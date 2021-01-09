@@ -123,4 +123,5 @@ L'OCSE:
   [nel 19 aprile 2008 come "controlli" globali (assenti analogamente alla crisi del '29) e sugli "equity fund"](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2008/04/tremonti-draghi-aspen.shtml)
   e [nel 18 dicembre 2008 come "più moralità, più legalità" (menzionando "il fallimento dei regolatori")](https://st.ilsole24ore.com/art/SoleOnLine4/Mondo/2008/12/ecofin-parigi.shtml),
   poi esplicitamente
-  [nell'8 gennaio 2009 come "legal standard" da proporre al G8](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/01/tremonti-legal-standard.shtml).
+  [nell'8 gennaio 2009 come "legal standard" da proporre al G8](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/01/tremonti-legal-standard.shtml)
+  e [nel 16 gennaio 2009 come analogia al "gold standard"](https://st.ilsole24ore.com/art/SoleOnLine4/Mondo/2009/01/tremonti-lista-economie-canaglia.shtml).
