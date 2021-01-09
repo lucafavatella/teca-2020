@@ -125,13 +125,14 @@ L'OCSE:
   poi esplicitamente
   [nell'8 gennaio 2009 come "legal standard" da proporre al G8](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/01/tremonti-legal-standard.shtml)
   e [nel 16 gennaio 2009 come analogia al "gold standard"](https://st.ilsole24ore.com/art/SoleOnLine4/Mondo/2009/01/tremonti-lista-economie-canaglia.shtml).
-  Vedi anche
-  [il 9 gennaio 2009 l'iniziativa tedesca](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/01/sarkozy-merkel-governance-globale.shtml),
-  [il 12 maggio 2009 Tremonti alla "conferenza internazionale Global Standard" su "12 punti condivisi"](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2009/05/global-standard-tremonti-crisi.shtml),
-  [il 6 luglio 2009 OCSE su testo dei 12 punti proposti l'11-12 maggio 2009 a Villa Madama e considerati il 12-13 giugno 2009 a Lecce per il "Lecce framework"](https://www.oecd.org/newsroom/g8summittodiscussprinciplesandstandardsforglobalbusinessdealings.htm),
-  [il 6 luglio 2009 il rappresentante personale del primo ministro italiano su "Lecce framework"](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/giorno-per-giorno/g8-governance-crisi.shtml),
-  [il 7 luglio 2009 Piercarlo Padoan sul contributo dell'OCSE al legal standard](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/approfondimenti/g8-consulto-internet.shtml),
-  [il 7 luglio 2009 Il Sole 24 Ore sul punto di vista "Sarkozy-Merkel"](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/approfondimenti/g8-riscossa-europea.shtml),
-  [l'8 luglio 2009 Tremonti alla conclusione del G8 dell'Aquila](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/giorno-per-giorno/g8-analisi-crisi.shtml),
-  [nel novembre 2009 Tremonti alla Scuola Centrale del Partito Comunista Cinese sul "Global Standard" come "nucleo base di un nuovo Trattato" che presuppone "rispetto reciproco" e "tolleranza reciproca" non "solo economica, ma anche culturale e religiosa"](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2009/11/tremonti-discorso-cina_PRN.shtml),
-  [il 6 gennaio 2011 Tremonti su più moralità politica e proposta 3 anni prima a cui OECD lavora su dichiarazione su diritti generali (video in inglese, vedi minuti 16:18-28:18)](https://www.c-span.org/video/?297366-3/global-economic-recovery).
+  La codifica del global legal standard
+  fu iniziata nell'11-12 maggio 2009 a Villa Madama (Roma) da Tremonti, esperti e l'OCSE come [12](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2009/05/global-standard-tremonti-crisi.shtml) punti,
+  [condivisi](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/giorno-per-giorno/g8-governance-crisi.shtml) [nel](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/approfondimenti/g8-consulto-internet.shtml) [12-13 giugno 2009 a Lecce dal G8 finanziario](https://www.oecd.org/newsroom/g8summittodiscussprinciplesandstandardsforglobalbusinessdealings.htm)
+  e [approvati nell'8 luglio 2009 a L'Aquila dal G8](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/giorno-per-giorno/g8-analisi-crisi.shtml).
+  Le initiative
+  [tedesca](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/01/sarkozy-merkel-governance-globale.shtml)
+  e [francese](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/approfondimenti/g8-riscossa-europea.shtml)
+  confluirono in quella italiana.
+  Tremonti
+  [nel novembre 2009 presentò il "Global Standard" alla Scuola Centrale del Partito Comunista Cinese come "nucleo base di un nuovo Trattato" che presuppone "rispetto reciproco" e "tolleranza reciproca" non "solo economica, ma anche culturale e religiosa"](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2009/11/tremonti-discorso-cina_PRN.shtml),
+  e [il 6 gennaio 2011 parlò su più politica, più moralità legale e su sua proposta di 3 anni prima, con relativo lavoro di OCSE, su regolazione e dichiarazione su diritti generali (video in inglese, vedi minuti 16:18-28:18)](https://www.c-span.org/video/?297366-3/global-economic-recovery).
