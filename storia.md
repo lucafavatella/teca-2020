@@ -120,7 +120,7 @@ L'OCSE:
   Il concetto di legal standard fu espresso da Giulio Tremonti
   in nuce
   [nel 16 aprile 2008 come "mercato basato sulle regole" invece di "libero scambio senza regole"](https://st.ilsole24ore.com/art/SoleOnLine4/Italia/2008/ElezioniPolitiche/documenti/tremonti-financial-times.shtml),
-  [nel 19 aprile 2008 come assenza di "controlli" globali (analogamente alla crisi del '29) e sugli "equity fund"](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2008/04/tremonti-draghi-aspen.shtml)
+  [nel 19 aprile 2008 come "controlli" globali (assenti analogamente alla crisi del '29) e sugli "equity fund"](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2008/04/tremonti-draghi-aspen.shtml)
   e [nel 18 dicembre 2008 come "più moralità, più legalità" (menzionando "il fallimento dei regolatori")](https://st.ilsole24ore.com/art/SoleOnLine4/Mondo/2008/12/ecofin-parigi.shtml),
   poi esplicitamente
   [nell'8 gennaio 2009 (come "legal standard")](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/01/tremonti-legal-standard.shtml).
