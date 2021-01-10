@@ -125,8 +125,8 @@ L'OCSE:
   poi esplicitamente
   [nell'8 gennaio 2009 come "legal standard" da proporre al G8](https://st.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/01/tremonti-legal-standard.shtml)
   e [nel 16 gennaio 2009 come analogia al "gold standard"](https://st.ilsole24ore.com/art/SoleOnLine4/Mondo/2009/01/tremonti-lista-economie-canaglia.shtml).
-  La codifica del global legal standard
-  fu iniziata nell'11-12 maggio 2009 a Villa Madama (Roma) da Tremonti, esperti e l'OCSE come [12](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2009/05/global-standard-tremonti-crisi.shtml) punti,
+  La [codifica del global legal standard](https://www.oecd.org/corruption/proprietyintegrityandtransparency.htm)
+  fu [iniziata](https://www.oecd.org/corporate/whyaglobalstandardforastrongercleanerfairereconomy.htm) nell'11-12 maggio 2009 a Villa Madama (Roma) da Tremonti, esperti e l'OCSE come [12](https://st.ilsole24ore.com/art/SoleOnLine4/Finanza%20e%20Mercati/2009/05/global-standard-tremonti-crisi.shtml) punti,
   [condivisi](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/giorno-per-giorno/g8-governance-crisi.shtml) [nel](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/approfondimenti/g8-consulto-internet.shtml) [12-13 giugno 2009 a Lecce dal G8 finanziario](https://www.oecd.org/newsroom/g8summittodiscussprinciplesandstandardsforglobalbusinessdealings.htm)
   e [approvati nell'8 luglio 2009 a L'Aquila dal G8](https://st.ilsole24ore.com/art/SoleOnLine4/dossier/Italia/2009/G8/giorno-per-giorno/g8-analisi-crisi.shtml).
   Le initiative
