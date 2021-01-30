@@ -52,6 +52,8 @@ Storia della lingua italiana:
 
 7 eventi con Matteo Marchesini nel 2010 su [Letteratura e Unità d'Italia](https://www.radioradicale.it/organizzatore/8035/biblioteca-comunale-edmondo-de-amicis-di-anzola-dell-emilia).
 
+[Archivio](https://www.silab.it/frox/200/index.htm) e [antologia](https://www.silab.it/frox/200/ind_cri.htm) della poesia italiana dalle origini a Dante, di Francesco Bonomi con copyright e licenza non chiari.
+
 ## Storia della Libertà di Iniziativa Personale
 
 [L'Italia è membro dell'Organizzazione Mondiale del Commercio (OMC) sin dalla sua fondazione nel 1994](https://italiarappginevra.esteri.it/rappginevra/it/italia_e_onu/omc/diritti-umani.html).
