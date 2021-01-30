@@ -52,6 +52,8 @@ Storia della lingua italiana:
 
 7 eventi con Matteo Marchesini nel 2010 su [Letteratura e Unità d'Italia](https://www.radioradicale.it/organizzatore/8035/biblioteca-comunale-edmondo-de-amicis-di-anzola-dell-emilia).
 
+[Cronologia mondiale in lingua italiana](https://www.silab.it/storia/?pageurl=00-appunti-storia) di Atlasmundi.com Srl del 2007.
+
 [Archivio](https://www.silab.it/frox/200/index.htm) e [antologia](https://www.silab.it/frox/200/ind_cri.htm) della poesia italiana dalle origini a Dante, di Francesco Bonomi con copyright - apparentemente fino al 2000 - e licenza non chiari.
 
 ## Storia della Libertà di Iniziativa Personale
