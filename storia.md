@@ -56,6 +56,11 @@ Storia della lingua italiana:
 
 [Archivio](https://www.silab.it/frox/200/index.htm) e [antologia](https://www.silab.it/frox/200/ind_cri.htm) della poesia italiana dalle origini a Dante, di Francesco Bonomi con copyright - apparentemente fino al 2000 - e licenza non chiari.
 
+Olivetti Programma 101 [del 1965](https://it.wikipedia.org/w/index.php?title=Olivetti_Programma_101&oldid=117903319):
+* [Simulatore sviluppato in collaborazione dall'Università di Cassino e l'Ing. Giovanni De Sandre - coinventore - nel 2016](http://p101.unicas.it),
+  da cui [relativa iniziativa per le scuole superiori](https://blog.seeweb.it/p101unicas-appuntamento-con-de-sandre/).
+* [Website del 1999 di Francesco Bonomi](https://www.silab.it/frox/p101/).
+
 ## Storia della Libertà di Iniziativa Personale
 
 [L'Italia è membro dell'Organizzazione Mondiale del Commercio (OMC) sin dalla sua fondazione nel 1994](https://italiarappginevra.esteri.it/rappginevra/it/italia_e_onu/omc/diritti-umani.html).
